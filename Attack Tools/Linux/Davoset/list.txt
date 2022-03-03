@@ -1,0 +1,15 @@
+http://regex.info/exif.cgi?url=
+http://anonymouse.org/cgi-bin/anon-www.cgi/
+http://www.google.com/translate?u=
+http://validator.w3.org/check?uri=
+http://translate.google.com/translate?u=
+http://www.w3.org/2005/08/online_xslt/xslt?xslfile=http%3A%2F%2Fwww.w3.org%2F2002%2F08%2Fextract-semantic.xsl&xmlfile=
+http://www.w3.org/2005/08/online_xslt/xslt?xmlfile=http://www.w3.org&xslfile=
+http://feedvalidator.org/check.cgi?url=
+http://www.cynthiasays.com/mynewtester/cynthia.exe?rptmode=-1&url1=
+http://www.watchmouse.com/en/checkit.php?c=jpcheckit&vurl=
+http://www.online-translator.com/url/translation.aspx?direction=er&sourceURL=
+http://www.translate.ru/url/translation.aspx?direction=er&sourceURL=
+http://panel.stopthehacker.com/services/validate-payflow?email=1@1.com&callback=a&target=
+http://about42.nl/www/showheaders.php;POST;about42.nl.txt
+http://web-sniffer.net/?url=

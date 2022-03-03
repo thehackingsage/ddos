@@ -1,0 +1,1 @@
+<?xml version="1.0"?><methodCall><methodName>pingback.ping</methodName><params><param><value><string>http://site</string></value></param><param><value><string>http://source</string></value></param></params></methodCall>

